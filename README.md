@@ -4,7 +4,7 @@
 ## 📸 실물 구현 사진
 
 <p align="center">
-<img src="./img/board_game.png" width="50%">
+<img src="스크린샷 2025-08-17 184913.png" width="50%">
 <br>
 게임 실행 화면 (노란색 비행기, 붉은색 장애물)
 </p>
