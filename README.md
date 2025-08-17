@@ -1,8 +1,12 @@
 🎮 AI 시스템 반도체 설계 – ARM 아키텍처 게임 프로젝트
 작성자: 장환
 
+## 📸 실물 구현 사진
+
 <p align="center">
-<img src="./img/thumbnail/game_device.png" width=70%><br>
+<img src="./img/board_game.png" width="50%">
+<br>
+게임 실행 화면 (노란색 비행기, 붉은색 장애물)
 </p>
 
 ---
